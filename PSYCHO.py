@@ -23,4 +23,4 @@ else:
   import os
   print("\033[31mhallaya :( !\033[0;1m")
   time.sleep(3)
-  os.system("clear ;python PSYCHO.py")
+  os.system("clear ;python3 PSYCHO.py")
